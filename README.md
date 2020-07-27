@@ -13,16 +13,20 @@ TODO:
 - [ ] Fix Trapped Ball Segmentation
 - [ ] Test on simpler Datasets
 
-# Current Results
+# Current Results on Goku
 
-Input Image
+### Input Image
+
 ![alt text](bw_image.png "Input Image")
 
-cGAN generated Image
+### cGAN generated Image
+
 ![alt text](gen_image.png "Gan Image")
 
-cGan Post Processing Image
+### Post Processed Image
+
 ![alt text](processed_image.png "Post Processed Image")
 
-Original Image
+### Original Image
+
 ![alt text](test_images\2.jpg "Original Image")
