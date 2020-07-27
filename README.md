@@ -29,4 +29,4 @@ TODO:
 
 ### Original Image
 
-![alt text](test_images\2.jpg "Original Image")
+![alt text](test_images/2.jpg "Original Image")
