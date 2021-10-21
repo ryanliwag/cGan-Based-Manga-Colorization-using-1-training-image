@@ -36,7 +36,7 @@ azureml-telemetry==1.0.41
 azureml-train==1.0.41
 azureml-train-core==1.0.41.1
 azureml-train-restclients-hyperdrive==1.0.41
-Babel==2.6.0
+Babel==2.9.1
 backcall==0.1.0
 backports.os==0.1.1
 backports.shutil-get-terminal-size==1.0.0
